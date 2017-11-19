@@ -1,0 +1,7 @@
+C:\Users\marek\Desktop\C#\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\marek\Desktop\C#\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\marek\Desktop\C#\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\marek\Desktop\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\marek\Desktop\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\marek\Desktop\C#\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
